@@ -1,0 +1,526 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://umsyahdev.github.io/ModsandSkins/moreapp.png",
+      "link":"https://play.google.com/store/apps/developer?id=Umsyah+Dev"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/o1pi1pWplyQhFEqS4L2ukIT7hVM1oJA8JboqZEvpYkmo8te7npgqbm_ZjDYyWgi1o_vBibhwddZkt2U7p9Cg9Q7mojcgsEIjPA",
+      "view_skin":"https://lh3.googleusercontent.com/kBEdWHM8ypdwq-dLffG80_pHKgcn0Kr2P66eTcDLK_r8hGuL8qw90v4rwLUi6tfahAbFZtAxRIhuAxxh66SUsvW_6LkUW8Xc37o"
+    },
+    {
+      "id":2,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/tIzSScE5rDMHHE5mTX7CQDSpIc_SfGVEHPK7sJiR-Y0_jEuy23KlcPtxPibytZU8JUUd8_3tfJ5uo7DjPB3WTCwQ8DduqCnzig",
+      "view_skin":"https://lh3.googleusercontent.com/lct7QEzdF35rrUHk4OzoCf5bdfe3OPhN7w5YaOCu8dWGMG0OXhwQiELg5sDJc0YJn_LLdN3kX9jmMZkoZj-9E7O_VD77QzuZLozQ"
+    },
+	{
+      "id":3,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/T5sHoIa3cLdXONdAi_MjFHl736Qxr_aPSa5fi9RqCVsX8u1JOolA6YvSYXGQvU1w60PwQReGFzGTLriWETSVdyzfJQfxwgh8YHzK",
+      "view_skin":"https://lh3.googleusercontent.com/w2-FuzXdMmaznYQ6NSSzph7Q09QCJCoVk1EsVHIl7aBIqjk9meQyUqtpnnZoeZzRNSvmFINVBcvDRPxBnBwCbhMQC6zzPlFv8Yg"
+    },
+    {
+      "id":4,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/1nX9hR8buTvvflfRJ5F-60u4zgO7JjkA-CzRl8OMk1sF-9gQbMfRsP7fxUK1nuqAX1gdIONpBcOdw0MbxDZDo45tYlvqMIjso2o",
+      "view_skin":"https://lh3.googleusercontent.com/Nnur_tKC3-dsDnLK2u6icWlHiA8rmsK-S2-yfvvjJjVIOdL3smMHb9rRgueq0-7nh8RUcltf1fhEAUhGs_I4IeOUuwjbHGYV7ps"
+    },
+	{
+      "id":5,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/D5_EmN6inJ0QzmP2e3qt1uhj4vWuwFP73FrgmpbUukKRWIMhlIWvLrJ7xrzfJtwANFUr3dj6oUY4saRCmr5Je2T1cd5q9A77OBw",
+      "view_skin":"https://lh3.googleusercontent.com/AZRbN_h_786giK-uqsVBn3YDY6QiRqv4Skqosvur5tk3X8YHXrUa56mYM1Q9vgsR9pb719-2iExUxRHhUYME0Dc-eynaLF9mdw"
+    },
+    {
+      "id":6,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/BBP4qnBPLxkYTEtjyfHSC_NYIMWE7JiIdM35hjmpz4JD9SgTKZwKh0V3gDQRt5y982mRnNjvA53u-q7JzDl7IAhqAFZ5zuwIPM0",
+      "view_skin":"https://lh3.googleusercontent.com/wkI91s0xOscnLcSWWPYHSLJnY0a152JuQRfA51kEI-GBguq8EUQQ1JysSQAG4fwLaCO-H6Smbnz4CcTtHHfV0fG5VXP3oNXqNv1t"
+    },
+	{
+      "id":7,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/fi9YvVcA23mH2L5J5j6Hmrus_n9KYoDgS7YHgfSx9pcBBQXYSneROn5Cx5vVe6ufr0QoTDHNtFREyGSBGuQiAdxXUtLSsmMzETKm",
+      "view_skin":"https://lh3.googleusercontent.com/OHfph5aW7BSsV-uTWtKudxyruN0QHOFskP9FkU1uYJxO0JgFAeuowTmx7kO0OuxcvLxzwy5ih_AsPwHVHCa_TYBn9QN9mnKvLghF"
+    },
+    {
+      "id":8,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/w6ibkjzyOWjR9aqYvyywkdrwDns73UF922cOvzHuoUy8XsNO33-HlNymwMCWLsdZUhhDCTwuKb1uPPCnKGmkQ4ehZEGp8bolgNk",
+      "view_skin":"https://lh3.googleusercontent.com/pOVya8k_6pBBtL76UWIW2bXsXmlrkkFTRfYKv62J1hCWWBOgb2C6CB-q7Sr01qG8mb8rkdTCg7U0PkbSftEZppfB8dzuGUfAwxw"
+    },
+	{
+      "id":9,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Y78f8cQqqdxPHn5h3o8D6S9JOhma_azj4jxXYzA4nSJ-dSsDgXqHGu0dhnQ_gU62TLKfL84K_Oyl-wYMnv9Xo-dth7s7K7qjBA",
+      "view_skin":"https://lh3.googleusercontent.com/wfhHkgBveUIk1FOPezqE-SmcMn-lLmGwpyBcYNGufM5znf4L-rVOqXpUC8WLNp9Caa_ZLD0l3OA322rMFlZDbyvFLqGO4MTBUK-t"
+    },
+    {
+      "id":10,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/gwi9aSSllEoh1_wbxty02M2Z83vrnke3QcS6GCz97_x_SdRBbBCaWwfysAtT8Rqg0QN26NmlQpB-d5ZjTga_t7SJq99HuA26cjg",
+      "view_skin":"https://lh3.googleusercontent.com/e8ibWHZnFlgoD9uqL5QecUyiWpVlodP7RHoq7Dqo6h3rDq_5x_9BaMlRWRn76AOIjsNKOlxO0i26PdLD1IZUQI9njakoR1qJH-k"
+    },
+	{
+      "id":11,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/yInuESn3LLMitakizEWUWtB3eypkmRBkI8b710-nqu7VXlQxM0FyVDzg21yDOxZUVzxUWeRi4B6Aox9A_ih4sQ",
+      "view_skin":"https://lh3.googleusercontent.com/XgswLEAkpe6S0P_U4NBLkZv-AeYSNmf8rj2KyU4n9LLb8Wg74vEUCodHuy308AizZjvNtt2mu2DT3BvOc6HkE0E"
+    },
+    {
+      "id":12,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/C9j_uJ5NXjSiKkpCV1IPLuvWbCanw25-0srZ36RYH65EclF44lKWqXGNwhKA_wqD-AMaeH_3ZxFdg1pqj_FsCMw",
+      "view_skin":"https://lh3.googleusercontent.com/ZckBXN0MuZRTZjoo2H452XgLT0WMYICBPdEFuwD0HI9QbtULyr4IFFesWLnly-tt4r1qr_N_YmEhXZdbpAXxSg"
+    },
+	{
+      "id":13,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/vfBW_jwCMf7xQvTgh9UVSnJcfFhgJ__2rdPTs9vIoCDVz-1ew_KakBQttY6N91HHqoxrWGjh4-jYRZaBagqraQ",
+      "view_skin":"https://lh3.googleusercontent.com/WvlVgG6WqvMr_KGcS9B_37qFoT2eJ-gHxbQEOPeZkiwGZ-rWiSbP5aqfMpEE7Cgn314B3X_Tc1p-nAPFg00szcY"
+    },
+    {
+      "id":14,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/my_jWgrbNrXgOE-lLHTWbvbRh-pnkqHL2b2dwCySSM7AmtaB_D_dTsEMbz0T-mtzeiHLuu8j6xxY7UowCtkq",
+      "view_skin":"https://lh3.googleusercontent.com/Ax7wisPJ43pGWCAp67iq_osCtlnfFvghWl_zOnOpr3cemUE6TtNI4aH8D2kHdsDtJLwvDKEFD9-XzSRUyenH"
+    },
+	{
+      "id":15,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/IAbLiLVmuYJnqruYyEFzsCHYh1ohb-ZmERcChQOrj3hSR4kevvp9vo1El77rqgzGgdUM42Tz8R6ZWgraZrmZbA",
+      "view_skin":"https://lh3.googleusercontent.com/y1CaqB72Cr5rCIrD-dnQnWHOq78z15qf18AHyde4AZlvucD5gVor6JxEeghFNANg8WSuHKBndOlvUFOLDK6pEg"
+    },
+    {
+      "id":16,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/2HkC67GbQ72krjR7z0bR1lrRVy1IY_WkTCmYDDGQ-fu7CksfuE70n826J73AHidlU8R__PX9-zjfGPOdtz-xGK0",
+      "view_skin":"https://lh3.googleusercontent.com/eIlnX8thrsUL6NbfEdNoNK_m8RqYUWTX27_N9qIx6OYkF4K28WMwPdReco3VZlLk4w4-AeFn7UlT0lNUZC5BuA"
+    },
+	{
+      "id":17,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ULYuKDKNe0YaXzlJ66c69WZTP1Rvw6LzgQU0Ukdki4GwYtWB6taf-x9Wve8zdTeYrMT7I0T0N0JHOIQ0Xtg6OA",
+      "view_skin":"https://lh3.googleusercontent.com/lTIAKtUSI9U5R5mksR6n6BBgq4y_1U_1HUOkd2OxLoQ-M_ZlFFEuNAmD_XAIs0o_qx1zCoEXpPmYNx-DWnPo"
+    },
+    {
+      "id":18,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ycT-etldbAssPYPaG5sMKJXXf0qG2h1nEObaFsHEo7O281VD9arpz767VK1ecNXYGespjQ9nkLlpFprRLErT",
+      "view_skin":"https://lh3.googleusercontent.com/PMBmGb8RXUUBkk4LXaj9fv0YMz3zJU3UJVrtolsXS_QvXSf5cMByhoxHgHdgs8bq_caYvrhFB0xqxOO41ODE"
+    },
+	{
+      "id":19,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/VnWnk-tPzNnitRUZHmuXPcybCIHDCV-ndboRxe8knxUIpJiP9psFoMP5AibvW2sqTExTjih2yoUbhovusDLlag",
+      "view_skin":"https://lh3.googleusercontent.com/xvw3BBVJ_MUBVrep7fF3bvU2jO-jaVySzXPymczoSdJwh5Zy4T1Pey_tvamLxMUVZm5SLaRIhHVqQH8FL-Z6nts"
+    },
+    {
+      "id":20,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/suUsqhXzPK0wndoAotcs51QBKOtvRtoVUwS9JQtamAp4rQRE8XkV1jpGKFG0EY6iKsNnUKMTF-DGxES6CJ6eGRg",
+      "view_skin":"https://lh3.googleusercontent.com/0ZUiH0tBpMnUay7rQFJ60Nb365CbTZ3adtORez2oHhaABY1a4spen17OWM2ltAYa4ugg4bg3tNqBNgDXt9WldQ"
+    },
+	{
+      "id":21,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/JW1Btz_iq_sP2-i7D_K2qRrBxn_l2v_j4mDaWeE7Fm0vgpmv6aMuq8-bnDIeLSnRJKHMp_xbK5-uhxCjfD-Htw",
+      "view_skin":"https://lh3.googleusercontent.com/sukTrHPmFbNbIva7Y942jtmOZZ8o5-vkDOm21ZHn1jjAh8Voycyrv4SGjvG0Bxz92I48q-RV5k1pgB1hlpQh5g"
+    },
+    {
+      "id":22,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/i-W9oW6-66ZzMKrBOEIzYJEfAUGY00fETGd4zwJbmN2GdXAzKL4zjO7dqaNJKPPYYjwT_ZglwzX4xjYwC-GKxm0",
+      "view_skin":"https://lh3.googleusercontent.com/L9DEf7msdpElhf6AVAPBj8DHwbVbFRJuVyRR3K3fBTGuEIwJqdBWkjDgyRK67SD1R5xsBi7IpAzfdT_a_Ym9HQ"
+    },
+	{
+      "id":23,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/-LMheBiO2G2o16FqYaV-x3UDVrNh-EVTGV6oOfZm5W4Y3ayFuvn6kwc5NWWZJ91FQXYKRQz9_uDbJsI1mzbdVmg",
+      "view_skin":"https://lh3.googleusercontent.com/wqW5n5_O7cuyf3VZoLq-gY7z9l79MpP-21YanXZuHZ-Cr2oHzmygSMS-U-ZoiqEKBA68qnE6WC7ieI23E1OHrQ"
+    },
+    {
+      "id":24,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/qn8E6zouQdeffn0g9VLFwLmhAX-O0jkKPrO2EHQg9gK45PLXgYcCQc6RiIH9-aFZTJg9gwQv0A76jQhLLVhs_g",
+      "view_skin":"https://lh3.googleusercontent.com/Kujkji8SBbZul7BXhyeNzD3VLtG37QLe-CoeQ1O2kVOUJtAiyZmuDPVg7klX3neeaZRWkufVkILUthwjkSuhKg"
+    },
+	{
+      "id":25,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/VuIiG4h5luhkd0cYZD1VcLGkmEVO6awog6KRlFW56kx7OO5xFQi-gjp0M1BcXZs_cxoFwbhk8FpLOQfnz6h8",
+      "view_skin":"https://lh3.googleusercontent.com/pkTDNPfbGp_Pmww3LI1E0z42OKdWbSCpiJ9wTL9y07eTdmm6AdF3NaOR5yr0VFjVlFRkWILbk5J_srn0pr0Pjw"
+    },
+    {
+      "id":26,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/uJkB6qC6GEvJTdWLaW2uHobhC0PoYv3UTNFOGGoYyz2iqPEqtg1vpNmsMYrd9afomVvmPfAQESPO53XmvK8jBxM",
+      "view_skin":"https://lh3.googleusercontent.com/uKpyyTGujzMRDHpCra-LGd3X96tvswZihU2rdC6E76k9Y8mTD1pCcE0HQ1amewta9PpS5s69YTKcR52Ze1LsWA"
+    },
+	{
+      "id":27,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/KmyZmjHVydsfCZNwN1z12267HrXTL1tOI-5IWeLDaZ6thQA0YaSE1ZuZid5CBepbHZnOMo7ZCOq3IlO5w_u8-c0",
+      "view_skin":"https://lh3.googleusercontent.com/_XsaDMn9Qx_zGNM8oEeoDryke-htAZhdZfDtjk8eQ8r9NNY4jzaUOuy5R6iuQaXihzCLN6ndm4CKGGoMVnr3Cqc"
+    },
+    {
+      "id":28,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Znm_Bbq4NYiJ5GVY_IrPcyLCoyXaYs2phjXFes9RqnxquUyZ4DZ8-b-II3J36HN0SGctKVK_Jot4f6jsdKyP_Qg",
+      "view_skin":"https://lh3.googleusercontent.com/TTHGjm5vPkelEDP5JCuVSle9noFdwFDuh7lfRdCznM_kXLn0cFMTeq_z3WD0NK9s8HR2thAYVROp2w5OLCgamec"
+    },
+	{
+      "id":29,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/KGJNqydGFDwyvUT0YvY78vwlEv0DHrMixGPalTCHZjU5eKOeH-UM6KD7RB2k7NwhCoMaXs2L0F2Q6GaYoeXv",
+      "view_skin":"https://lh3.googleusercontent.com/LfGYI64gFhQGMAGAMbEqoB2qrmRTWvmrarM7qekzxRUJAUnMPtF6-z9OlFPaPRD-0qg0mei4ldgJuu9xIVvu"
+    },
+    {
+      "id":30,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/n1SxV51ztW1Nb8Q230-r34brG62SQrB4ghMow2KV9yEYasBBukRJFCz6m81z_f42Iln0zPEBkw0uyTg5NlVBlw",
+      "view_skin":"https://lh3.googleusercontent.com/AugYt723Nhb1bjIerRiUGsI8qDFc0RgTqwOVnWLrV8Xg2zXGGbl8UGp9jTTbPqCtcoc1o6dUlJngsn5jMR8v"
+    },
+	{
+      "id":31,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/SvK0XB2ANxfF-M0PDGbMTdGlyi3JcSGfT2_Nfzprjq5uubns9nUiqVPb_cKcHdw0Ua26X8vqIbdmXH7i3wxV",
+      "view_skin":"https://lh3.googleusercontent.com/UVwIUXQWk4tggWi8Ep8t1vI5o-yEhSMUXfGUrTGqv5w1Nylj3cce7nBI1U3OMsDTwlimHsb7Ti2NQd1Gqusm"
+    },
+    {
+      "id":32,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/OOpIPHobYxHq4Mywg07mdE01HJ6feki5gIvLvQMKhzUbbH1wbKPt2dycC5Cdq9UvYungVhboObOY-OgtdEIRlw",
+      "view_skin":"https://lh3.googleusercontent.com/ladRDIK-HUtRmLFSoMnJ3NSFvPFHBCFu7r_-A-sS_f4HEg8vy062-DQgXeQj89oXU0LEP4E7stmVhWYJvLpjiA"
+    },
+	{
+      "id":33,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/DqWCHv_lvgVdgzJfePf03wYFwHdxqg9smsOjUnE2eNN6jso_4R3hACUYEBZQSO8KSFFhA0WtQAR8ZcvtpdY5Jg",
+      "view_skin":"https://lh3.googleusercontent.com/2duvAvlj78rnqjX-in__lO7DH0Uee2lDHwTv69PsvCVxN4k72K_dTG8_SLxq2khi3zkaBunVIannriUZc4Eh"
+    },
+    {
+      "id":34,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/cOglxH9x13S7fYufUU9tog1pDIAl_3tot7qyvxtNYS_T8b2FpCV_I4y0-hS-3QngOL46UqUIG_P6dxK-MVIi",
+      "view_skin":"https://lh3.googleusercontent.com/IndZ0f-fbmxkBPfWqZcxZDhdkvAaEVUGgX3D-BEGbxTFgNnIfdxsY4YlRIF_c0C6PUz48G3acoCrL9mC8q1F"
+    },
+	{
+      "id":35,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/LCg6HofukxsFK4CJbtheDMg15VgBc8799VZ-pR7iXIE2Ne4wIPsXCy3NDLSl_jsGXCs6tAzKT_6WHgKyC4iQXZc",
+      "view_skin":"https://lh3.googleusercontent.com/o3mt4k344jjzRYnQwoYvzVVmpnSfhRzEFzEFK8yPY251aRwWKivL7bgzZgb9ojhNmJDpXR0vjzDHNz7KQfOKIA"
+    },
+    {
+      "id":36,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/G2_imEnST8qAjnPyMpUT-36sfNihMXquGb09yaz9MzeNZg-OeqQMdvrNtWDoeglIh6oEQpop0ey6fvWmhTXMXA",
+      "view_skin":"https://lh3.googleusercontent.com/FRaW5RNpjDUnVgQ4wjN0bDV4h_axgSZltw1WAtw2SwbMwFq4A4ZWL1U-QhYdqULJqEJpCx2Z9k4nhBBevzs8Zw"
+    },
+	{
+      "id":37,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/5uzUmuDwYfIvPQgiFO4_i_-cy14VAAwimr9Dt__2kn1YidcNDEd-JzoWY6UBexAEoxjGSwLdA_iDpcoD1RwmZw",
+      "view_skin":"https://lh3.googleusercontent.com/HskJ7I5vXyNOzuws3Q5W7-0Vl1T2WwvTPIcdvBoL1xArfiDoXGkjvGGcl55gBvz1Lq4wY4EjGWumhRB8Vo2Vmu0"
+    },
+    {
+      "id":38,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh5.ggpht.com/XFaeVbRMAo2R4XFMhJf3W7P9Az7oqoIlPmiL0BwRms7kzU1yHuGfteI8jUrictWGopFkCD2T0OPIjEqXqF-AEQ",
+      "view_skin":"https://lh3.googleusercontent.com/iFxtUPtnbyLYKH-z24kf1c_ByDrwuoAh0JJ_Kfopc7NO1Z0VlRaX2V1qcyTv754ScVqtIA13X9vLGktOUs92"
+    },
+	{
+      "id":39,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/YbKyb4BDWYEPWqwBP5jlaS2Iu0uVkV2itESUeuINvUOw61KtkclenqdIVDCRDgwYDG88xMUye30X4SZwI9mdh28",
+      "view_skin":"https://lh3.googleusercontent.com/MIQD6eiEgvT4A_aBTAHYMwlpQ-NNqyI1BnU4ZnZYSAsVFpXrhKKb61MTdeMyVw6zX_tVV7Bjn9BibF6odsma"
+    },
+    {
+      "id":40,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/qUeCYYFmVc5cHgMXatlPXQHBDKqnsJQwL3l5TNzmpsHjaAEorL3WGbUnHDvOJp-h55kpPpYppwS7_V-t0MCOjQ",
+      "view_skin":"https://lh3.googleusercontent.com/kdxhiL_pYbtkyBhHPJHYzQwLRwSYdN1UCsF5NBzstN29QYGw3xPtVROKSk0xIpKOXe5DivjpeKTAGbcS1bnW4g"
+    },
+	{
+      "id":41,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/HhmzuMBBctdMKsaN95EuEUtRr5ZDgYt0zrLAT67fA01x2gQ-KKfBsAh03tLur-4PjCIxipYXyljuQXG9YvWFLg",
+      "view_skin":"https://lh3.googleusercontent.com/OlApm45IlVqbMqmOy4vWaSSx7WIIG6mTYerSrnoAtsG0g8bszslZpEzRruiXynr0EpqUqpnpKItpifiZ03uxzbg"
+    },
+    {
+      "id":42,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Ruo9J0Xv-HaO2bqVt4AmOPCICrHbrnQKYIlqPW7OnT7rKZJfiGGFxBclWVt6eFd1a79kw0BmyVi_GQmuUYgViA",
+      "view_skin":"https://lh3.googleusercontent.com/6fThc3HLXfS6ClV6-llfzfVDP8kTqAvGKGCeBNd4zGg45frinvSIWni7FxFEzPg80GzicCc-cCt5A84tAIDaug"
+    },
+	{
+      "id":43,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.ggpht.com/HRcL6tfEt_8HB8Se--nMukH__LdiPZNsaWrcZASDARVA5j_3MFtWSVcXcok6_XSGNPh_MrRKdI4aN2sZcx86",
+      "view_skin":"https://lh3.googleusercontent.com/RcohuPIhenx3SLw7sHe2cu2wLpQID6Amlcl5JxWqJV8HbfuLEeJG2ol9gjH_BYwQKjkfytPPrEhfZBej4HCaTg"
+    },
+    {
+      "id":44,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh5.ggpht.com/MrhiWXRzDa2upi1Yv2eVVCWgBSuQ8XTdI2w6iH_k6WX9SeNwHUzAOu1V7qbE-CflsGc0Qouew79FnADqzpnqBg",
+      "view_skin":"https://lh3.googleusercontent.com/1pyAZQw0FidyTy-SUyG4IXPeEqTdmypepXVRI77PWktGHGUymZPC-GwLf7t-vYPWyKv1C1oI5kUd12kWd85olA"
+    },
+	{
+      "id":45,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh6.ggpht.com/SQoTQZ-b6WduaLQqJyx2qxOzvd2DNHsJQCmy0I4_Fj2DkHmKVVpzYtA0L3YP0ikSIBAMvC-G2bV5K97mWRKU",
+      "view_skin":"https://lh3.googleusercontent.com/ZcTBKfMRK-VSslkaoG6t-zro4ZwhE8zvYUhGBM5qmh9y1lQRPADjTWYygH2TnklMgGqVKl27Sz49S7SkbdYtIA"
+    },
+    {
+      "id":46,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh4.ggpht.com/iC8OQXYyjmt8p6Sym3MY2-o8mPjgqnTnBF23cROCfdksnzGJkibfzxg6TzeaFMIoNP8Zfwjqt-pMIB6bplQ6",
+      "view_skin":"https://lh3.googleusercontent.com/ugiIeIXBgrMj00x4AYLEZY770Y2wv73JFfKrMka8ByXNNY-KZ4hb1f2l4j3p_STfifaBmvexMUNefo8f2av80w"
+    },
+	{
+      "id":47,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.ggpht.com/dqEz5bUNhssZL_k6Mw31Ohcw1SnbPPp7SHKG5qd75geLownRafwyEreolNe4ZVsSxlqeCc5ZHmXtI25S88ylzQ",
+      "view_skin":"https://lh3.googleusercontent.com/6U67awXxQbow32BJ4jfPlJrtREKO3I3kHoxuHuq-hrCRbtSQ1WgepV7G-9xwgI8Sv104vTLhkrZ9w-fkBBHkyQ"
+    },
+    {
+      "id":48,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh6.ggpht.com/vnXxwDFFsFE9rXqdM5qpRF21queiJ_CXNGIVYzB9xkPbY7cgBNdjjhKWplZ-xZp19zWbFuK6W89WHxxD3Dnw",
+      "view_skin":"https://lh3.googleusercontent.com/XzLC0yFC31XERHrbls1UZiWn2Kc8h_Pi0wgjxEdnGG-P9iwi0unJy1Z0A1vNjFgHOVm8oR2tX-1fdiBYlj_aQJ8"
+    },
+	{
+      "id":49,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh5.ggpht.com/P9rxQRPyjmfVH5GQWx0CwF68Gct7U21KSd_Arj31ylKV8x8jKO-T-gTfaErpwpUPUNY9OtGyn--n7brxGUB4hg",
+      "view_skin":"https://lh3.googleusercontent.com/whYOhprK5IOmoQIWm51Ml9mlc6iESpvsMS0SZdyUIrU4JUfJ3tz5a4PCKgmr3vq71Cx5cK1ZjQZOPNSi8IcM1w"
+    },
+    {
+      "id":50,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh6.ggpht.com/MFkOlU7dJOUDh3eTUAZNbnnD-flO0bvC6zbw4qJi0RtbnNntOX3EQXkD8NwAUz7NlQ0neCv3Tn5lJ_MS8kwaQQ",
+      "view_skin":"https://lh3.googleusercontent.com/YxHC2UOB1jvj-_O6a46XeQjCl3agNshic9ek_aGD7wMDJBt0yJ2amcDpR402DjZSDZp3Z5NJ0lYYxCyxk5ep"
+    },
+	{
+      "id":51,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh6.ggpht.com/lcHsSo4W_yY80eouQZu88dMZygJc9Y94j7Kwba9Kett0yqGhwERmEVKNAoCn2zJ3MQslNxCUJRsHNqNa9kYrmg",
+      "view_skin":"https://lh3.googleusercontent.com/zTOI4D3Yygimt-a1O9tDJAq9wftKehjAiBj8kOqIMGlefGthg3dgaQvmiztnKywsLHlqBIINpKxE07BsdseR-8c"
+    },
+    {
+      "id":52,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh6.ggpht.com/oNfdw_S8Ik851AKwL0Zivfr9EO1yLto0l0A4SMulGc0ntoqAOcmCnasJmPDXJjyhMddHhJZtQMUbjmb1atgODA",
+      "view_skin":"https://lh3.googleusercontent.com/p85feeyxzyHE07gZEdFTXKhvV2R7TSF6jpvDJu9m1Km5qsqwvkhb51eBeigswpnK-LQWYOHsLncTPE2LHPmSzYo"
+    },
+	{
+      "id":53,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh5.ggpht.com/BtOER_YsFK3GTDPZrwHhz6uGIHX3ecTs3KU6QLWSw5bE0hX9WpJJYlHHLaRvRDyoyLFjfi27rPvnie8gbj3d",
+      "view_skin":"https://lh3.googleusercontent.com/5ntQZO7Z5_MsjllxOvcSmXHqKMEYuE6jj2YixlHxWquenBnb3Kf5tkM3oCaLhaW3Lhn0w2dqMIgchwT3Uq1vsA"
+    },
+    {
+      "id":54,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh6.ggpht.com/eePcJB8WWc_1P2uTMtT135TZJLgFd9OzfCOfF0vUqJc4mIqXIk_wx_QVz3nVuD39q7ewk1f7ucn7wcc-MgngR4A",
+      "view_skin":"https://lh3.googleusercontent.com/qzY1n1QTshm6TG7t6dAckVS41wx4LQLw1LrM9ZyWWJbfIOj0AEJFb75Xdodx7Q-93a7N9OMP8thPNk8XgH8U"
+    },
+	{
+      "id":55,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh4.ggpht.com/6JsHShjqpFO3sBaiCDwlu1qaBDYsYsaoxnKVgn91ZrYOnqfUsGv1DjBw4O1IJsps6mzq2g4V7dvhVvbZSb1_tQ",
+      "view_skin":"https://lh3.googleusercontent.com/k35pbQewXNTZEE8MPPKsbNUVWvVHebR3a1YJIERq1yJdG93y-2Tf48Esl7FOdp5FFKS0crNitiG5cFVmZLOK9w"
+    },
+    {
+      "id":56,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh6.ggpht.com/YbvPPm9b2WyjV54LJgvp3VY9_a_BaktPu5psoCpH5_4Fe1UnzbAGC7L8q72mzlznxQlAdCQVj5VJyKC2X_lZRkA",
+      "view_skin":"https://lh3.googleusercontent.com/7t-jNcynVXm3uDy7dGSTLvK8Sa3W2A9Ov0xqokDYWUDRMYUDRjMx2thXNETykzRs-xu-LWRsRMVScL3hvvTCeZc"
+    },
+	{
+      "id":57,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh4.ggpht.com/Ir0FO4T8JhZ9f2udqq3H816L8JVYQruqSVGKzbPrrEGXHL_CUKX0WnyHXbO9YOcL74BfHPBl2WoshyJcNmch3Hk",
+      "view_skin":"https://lh3.googleusercontent.com/z5sh2SJKL2Fx9xaaXK5k4otwSrMYJFQq-7yGl4gXW1sBr4vG8mC8YDV7t6VEJWAEqe7RF3Wl3PypYvOFuAEdTCE"
+    },
+    {
+      "id":58,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh5.ggpht.com/Yx_2YVRrxcEwvmuVVZoVkrEUPOqg_RSwrlNrq5lS6uztMtYnjUbmrmkwZTBztLCN8RPKeRPx2VjvARAE8Tlk",
+      "view_skin":"https://lh3.googleusercontent.com/eLuvwVdOn0rqT9qBgIkXPdFAJcD5AQvmGZdFoB0ijls5VuzfG7r9x4Zh2-d4c_um_fSfCPdZYRbDqIeg89xF8w"
+    },
+	{
+      "id":59,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh3.ggpht.com/Z8z2XZg5h275IMeONvX3LqPYTrMIC2TvAYkUd41Lw2QhhEGzcX5HkDjv9FxSrTLXo7pKcCKMNiwPfzOtFYeq",
+      "view_skin":"https://lh3.googleusercontent.com/hzth_Ktu1t6z6X6zFXHPa8P_ViJxEfXKSR8fS-CNqrbhT-E3_pkDvmJym2qprPGoN6o17_1K0BjkwkTZhy7_0g"
+    },
+    {
+      "id":60,
+      "name_skin":"World Cup Skin MCPE",
+      "skin_url":"https://lh6.ggpht.com/Ppz6xYQhLie1oijRliMMtuc3__QCcFrW6YjcU-VJs-tTelEiqZifQz5dhH2OXGCsu_VpEcc6-qGaT8Qqtfy47RQ",
+      "view_skin":"https://lh3.googleusercontent.com/8e5eGlQFsJ_Dvc5rZT0V-5DSeyB2HJWm7RD6PTBA522f-E1O-EWWQCZBwsZv8kWZpC-lFDmn5B4U_kWpdRHP8w"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"World Cup Addon MCPE",
+      "add_url":"https://archive.org/download/addonworldcup/ad1.zip",
+      "addB_url":"https://archive.org/download/addonworldcup/ad1b.mcpack",
+      "addR_url":"https://archive.org/download/addonworldcup/ad1r.mcpack",
+      "view_add":"https://modcraftmcpe.github.io/modminecraft/worldcup/ad1.png",
+      "des_add":"https://modcraftmcpe.github.io/modminecraft/worldcup/instal.html"
+    },
+	{
+      "id":2,
+      "name_add":"World Cup Addon MCPE",
+      "add_url":"https://archive.org/download/addonworldcup/ad2.zip",
+      "addB_url":"https://archive.org/download/addonworldcup/ad2b.mcpack",
+      "addR_url":"https://archive.org/download/addonworldcup/ad2r.mcpack",
+      "view_add":"https://modcraftmcpe.github.io/modminecraft/worldcup/ad2.png",
+      "des_add":"https://modcraftmcpe.github.io/modminecraft/worldcup/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m1.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    },
+	{
+      "id":2,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m2.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    },
+	{
+      "id":3,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m3.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    },
+	{
+      "id":4,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m4.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    },
+	{
+      "id":5,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m5.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    },
+	{
+      "id":6,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m6.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    },
+	{
+      "id":7,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m7.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    },
+	{
+      "id":8,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m8.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    },
+	{
+      "id":9,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m9.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    },
+	{
+      "id":10,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m10.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    },
+	{
+      "id":11,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m11.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    },
+	{
+      "id":12,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m12.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    },
+	{
+      "id":13,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m13.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    },
+	{
+      "id":14,
+      "name_map":"World Cup Maps MCPE",
+      "map_url":"https://archive.org/download/addonworldcup/m14.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/natal/m1.png",
+      "des_map":"https://modcraftmcpe.github.io/modminecraft/worldcup/map.html"
+    }
+  ]
+ }
